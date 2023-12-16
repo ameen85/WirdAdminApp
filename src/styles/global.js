@@ -1,5 +1,5 @@
 import { colors } from "styles";
-import { css } from "@emotion/react/macro";
+import { css } from "@emotion/react";
 
 export default (theme) => {
   return css`

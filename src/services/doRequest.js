@@ -51,6 +51,6 @@ export const doRequest = (data, uri, config, method, successCallback, failCallba
                 console.log("ERROR doRequest: " + JSON.stringify(err.response.data));
             }
         }
-        failCallback(err);
+        failCallback?.(err);
     });
 }

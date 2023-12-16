@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import { Link, NavLink } from "react-router-dom";
 import { colors } from "styles";
 

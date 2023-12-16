@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import { colors, spacing } from "styles";
 import { DropdownList, Span } from "../Admins/Admins.styles";
 import {

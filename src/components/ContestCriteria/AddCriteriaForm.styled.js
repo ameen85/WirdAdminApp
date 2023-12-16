@@ -1,6 +1,5 @@
 import styled from "@emotion/styled";
 import { colors } from "styles";
-import { css } from "@emotion/react";
 
 export default styled.div`
   /* position: absolute; */

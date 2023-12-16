@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import {DropdownListStanderd as DefaultDropdownListStanderd} from '../../shared/styles'
 export const Span = styled.span`
 text-align:center;

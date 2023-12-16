@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import {DropdownDiv} from "../Students/setPasswordStudent/SetPasswordStudent.styles";
 import {DropdownList as List} from "../shared/styles";
 

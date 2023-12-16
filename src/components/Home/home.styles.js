@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import {
   WirdMinIntroduction as DefaultWirdMinIntroduction,
   Introduction as DefaultIntroduction,

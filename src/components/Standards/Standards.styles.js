@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import {DropdownList} from "../Admins/Admins.styles";
 import Default from "../shared/styles"
 
